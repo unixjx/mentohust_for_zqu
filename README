@@ -1,0 +1,26 @@
+学校破解版原作者 https://github.com/shanzhaozhen/mentohust_for_zqu
+
+------
+
+我只是在他的基础上将代码编译了一次，省去了查找编译和配置依赖这个步骤。
+
+使用步骤如下:
+
+安装：
+
+```
+make install
+```
+
+ 
+
+使用：
+
+```
+sudo mentohust
+```
+
+​	（接下来按照提示操作就行了）
+
+如果切换到别人的网线，最好重新make install一下。
+
